@@ -1,2 +1,1 @@
-# JavaScript-
-For practicing js  
+
